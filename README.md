@@ -1,5 +1,3 @@
-# sales-insights-360
-Business Intelligence project using Talend, SQL, and Power BI for production planning
 # Sales Insights 360
 A Business Intelligence project designed to optimize production planning using historical sales data.
 
